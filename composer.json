@@ -30,7 +30,7 @@
         "behat/mink-extension": "self.version"
     },
     "require-dev": {
-        "behat/mink-goutte-driver": "^1.1",
+        "behat/mink-goutte-driver": "^1.1 || ^2.0",
         "phpspec/phpspec": "^6.0 || ^7.0 || 7.1.x-dev"
     },
     "extra": {
